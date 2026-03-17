@@ -89,23 +89,23 @@ export default function HomePage() {
           mediaItems={[
             {
               imageSrc:
-                "http://img.b2bpic.net/free-photo/high-angle-egg-bread-slice_23-2148633479.jpg",
+                "http://img.b2bpic.net/free-photo/high-angle-egg-bread-slice_23-2148633479.jpg?_wi=1",
               imageAlt:
                 "Delicious Filipino silog meal with rice, fried egg, and grilled meat",
             },
             {
               imageSrc:
-                "http://img.b2bpic.net/free-photo/beef-pashtet-national-russian-food-with-leffute-cherry-tomatoes_114579-1154.jpg",
+                "http://img.b2bpic.net/free-photo/beef-pashtet-national-russian-food-with-leffute-cherry-tomatoes_114579-1154.jpg?_wi=1",
               imageAlt: "Mouth-watering tapsilog - cured beef, rice, and egg",
             },
             {
               imageSrc:
-                "http://img.b2bpic.net/free-photo/noodle-soup-rice-with-meatballs_140725-5348.jpg",
+                "http://img.b2bpic.net/free-photo/noodle-soup-rice-with-meatballs_140725-5348.jpg?_wi=1",
               imageAlt: "Authentic longsilog with Filipino sausage",
             },
             {
               imageSrc:
-                "http://img.b2bpic.net/free-photo/traditional-nasi-lemak-meal-composition_23-2149056822.jpg",
+                "http://img.b2bpic.net/free-photo/traditional-nasi-lemak-meal-composition_23-2149056822.jpg?_wi=1",
               imageAlt: "Crispy hotsilog with grilled hotdog",
             },
             {
@@ -139,7 +139,7 @@ export default function HomePage() {
               name: "Tapsilog",
               price: "₱85",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/beef-pashtet-national-russian-food-with-leffute-cherry-tomatoes_114579-1154.jpg",
+                "http://img.b2bpic.net/free-photo/beef-pashtet-national-russian-food-with-leffute-cherry-tomatoes_114579-1154.jpg?_wi=2",
               imageAlt: "Tapsilog - Cured beef, rice, and egg",
             },
             {
@@ -147,7 +147,7 @@ export default function HomePage() {
               name: "Longsilog",
               price: "₱90",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/noodle-soup-rice-with-meatballs_140725-5348.jpg",
+                "http://img.b2bpic.net/free-photo/noodle-soup-rice-with-meatballs_140725-5348.jpg?_wi=2",
               imageAlt: "Longsilog - Filipino sausage, rice, and egg",
             },
             {
@@ -155,7 +155,7 @@ export default function HomePage() {
               name: "Hotsilog",
               price: "₱75",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/traditional-nasi-lemak-meal-composition_23-2149056822.jpg",
+                "http://img.b2bpic.net/free-photo/traditional-nasi-lemak-meal-composition_23-2149056822.jpg?_wi=2",
               imageAlt: "Hotsilog - Grilled hotdog, rice, and egg",
             },
           ]}
@@ -180,7 +180,7 @@ export default function HomePage() {
                 "Perfect for students, workers, and families looking for great value meals.",
               ],
               imageSrc:
-                "http://img.b2bpic.net/free-photo/high-angle-egg-bread-slice_23-2148633479.jpg",
+                "http://img.b2bpic.net/free-photo/high-angle-egg-bread-slice_23-2148633479.jpg?_wi=2",
               imageAlt: "Affordable silog meal",
             },
             {
@@ -191,7 +191,7 @@ export default function HomePage() {
                 "Our grill is always hot and ready to serve you the best tasting food.",
               ],
               imageSrc:
-                "http://img.b2bpic.net/free-photo/rice-spices-composition_23-2147894757.jpg",
+                "http://img.b2bpic.net/free-photo/rice-spices-composition_23-2147894757.jpg?_wi=1",
               imageAlt: "Fresh garlic rice",
             },
             {
@@ -202,7 +202,7 @@ export default function HomePage() {
                 "Perfect for busy mornings and lunch breaks.",
               ],
               imageSrc:
-                "http://img.b2bpic.net/free-photo/woman-hand-eating-bread-with-fried-egg_141793-1705.jpg",
+                "http://img.b2bpic.net/free-photo/woman-hand-eating-bread-with-fried-egg_141793-1705.jpg?_wi=1",
               imageAlt: "Sunny side up egg",
             },
           ]}
@@ -264,7 +264,7 @@ export default function HomePage() {
                 "Masarap at mura! Best silog sa Caloocan. Laging masarap ang bawat order ko dito sa Jack's Grill!",
               rating: 5,
               imageSrc:
-                "http://img.b2bpic.net/free-photo/cheerful-bearded-man_1098-22109.jpg",
+                "http://img.b2bpic.net/free-photo/cheerful-bearded-man_1098-22109.jpg?_wi=1",
               imageAlt: "Maria Santos - Satisfied customer",
             },
             {
@@ -275,7 +275,7 @@ export default function HomePage() {
                 "Sulit na silog sa Caloocan! Ang presyo ay affordable pero ang lasa ay premium quality. Highly recommended!",
               rating: 5,
               imageSrc:
-                "http://img.b2bpic.net/free-photo/young-beautiful-hispanic-woman-standing-with-arms-crossed-gesture-street_839833-27487.jpg",
+                "http://img.b2bpic.net/free-photo/young-beautiful-hispanic-woman-standing-with-arms-crossed-gesture-street_839833-27487.jpg?_wi=1",
               imageAlt: "Juan dela Cruz - Happy customer",
             },
             {
@@ -286,7 +286,7 @@ export default function HomePage() {
                 "Perfect breakfast spot for busy mornings. Fast service, fresh food, and napakasarap! I come here every week.",
               rating: 5,
               imageSrc:
-                "http://img.b2bpic.net/free-photo/young-chinese-woman-smiling-confident-standing-street_839833-7633.jpg",
+                "http://img.b2bpic.net/free-photo/young-chinese-woman-smiling-confident-standing-street_839833-7633.jpg?_wi=1",
               imageAlt: "Ana Reyes - Loyal customer",
             },
             {
@@ -297,7 +297,7 @@ export default function HomePage() {
                 "Ang best grill meals sa Dagat-Dagatan! Ang garlic rice at tapa ay consistently masarap. 10/10!",
               rating: 5,
               imageSrc:
-                "http://img.b2bpic.net/free-photo/beautiful-asian-woman_1098-21999.jpg",
+                "http://img.b2bpic.net/free-photo/beautiful-asian-woman_1098-21999.jpg?_wi=1",
               imageAlt: "Ramon Cruz - Regular customer",
             },
             {

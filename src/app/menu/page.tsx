@@ -86,7 +86,7 @@ export default function MenuPage() {
               name: "Tapsilog",
               price: "₱85",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/beef-pashtet-national-russian-food-with-leffute-cherry-tomatoes_114579-1154.jpg",
+                "http://img.b2bpic.net/free-photo/beef-pashtet-national-russian-food-with-leffute-cherry-tomatoes_114579-1154.jpg?_wi=3",
               imageAlt: "Tapsilog - Cured beef with rice and egg",
             },
             {
@@ -94,7 +94,7 @@ export default function MenuPage() {
               name: "Longsilog",
               price: "₱90",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/noodle-soup-rice-with-meatballs_140725-5348.jpg",
+                "http://img.b2bpic.net/free-photo/noodle-soup-rice-with-meatballs_140725-5348.jpg?_wi=3",
               imageAlt: "Longsilog - Filipino sausage with rice and egg",
             },
             {
@@ -102,7 +102,7 @@ export default function MenuPage() {
               name: "Hotsilog",
               price: "₱75",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/traditional-nasi-lemak-meal-composition_23-2149056822.jpg",
+                "http://img.b2bpic.net/free-photo/traditional-nasi-lemak-meal-composition_23-2149056822.jpg?_wi=3",
               imageAlt: "Hotsilog - Grilled hotdog with rice and egg",
             },
           ]}
@@ -127,7 +127,7 @@ export default function MenuPage() {
                 "Golden, fluffy, and aromatic - the perfect complement to any protein.",
               ],
               imageSrc:
-                "http://img.b2bpic.net/free-photo/rice-spices-composition_23-2147894757.jpg",
+                "http://img.b2bpic.net/free-photo/rice-spices-composition_23-2147894757.jpg?_wi=2",
               imageAlt: "Fragrant garlic rice",
             },
             {
@@ -138,7 +138,7 @@ export default function MenuPage() {
                 "Fresh eggs daily, ensuring quality and great taste in every meal.",
               ],
               imageSrc:
-                "http://img.b2bpic.net/free-photo/woman-hand-eating-bread-with-fried-egg_141793-1705.jpg",
+                "http://img.b2bpic.net/free-photo/woman-hand-eating-bread-with-fried-egg_141793-1705.jpg?_wi=2",
               imageAlt: "Perfectly fried sunny side up egg",
             },
             {
@@ -149,7 +149,7 @@ export default function MenuPage() {
                 "All proteins are carefully selected and expertly grilled to enhance flavor.",
               ],
               imageSrc:
-                "http://img.b2bpic.net/free-photo/high-angle-egg-bread-slice_23-2148633479.jpg",
+                "http://img.b2bpic.net/free-photo/high-angle-egg-bread-slice_23-2148633479.jpg?_wi=3",
               imageAlt: "Quality protein selection",
             },
           ]}

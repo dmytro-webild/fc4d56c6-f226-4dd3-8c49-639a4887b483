@@ -84,7 +84,7 @@ export default function AboutPage() {
                 "Budget-friendly prices without compromising quality. Generous portions that fill you up.",
                 "Perfect for students, workers, and families looking for great value meals.",
               ],
-              imageSrc: "http://img.b2bpic.net/free-photo/high-angle-egg-bread-slice_23-2148633479.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/high-angle-egg-bread-slice_23-2148633479.jpg?_wi=4",
             },
             {
               id: "fresh",
@@ -93,7 +93,7 @@ export default function AboutPage() {
                 "Every meal is cooked to order using fresh, quality ingredients.",
                 "Our grill is always hot and ready to serve you the best tasting food.",
               ],
-              imageSrc: "http://img.b2bpic.net/free-photo/rice-spices-composition_23-2147894757.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/rice-spices-composition_23-2147894757.jpg?_wi=3",
             },
             {
               id: "service",
@@ -102,7 +102,7 @@ export default function AboutPage() {
                 "Quick and friendly service. Minimal wait time for your meal.",
                 "Perfect for busy mornings and lunch breaks.",
               ],
-              imageSrc: "http://img.b2bpic.net/free-photo/woman-hand-eating-bread-with-fried-egg_141793-1705.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/woman-hand-eating-bread-with-fried-egg_141793-1705.jpg?_wi=3",
             },
           ]}
           gridVariant="three-columns-all-equal-width"

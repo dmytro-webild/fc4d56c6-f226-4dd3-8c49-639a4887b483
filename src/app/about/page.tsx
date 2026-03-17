@@ -146,7 +146,7 @@ export default function AboutPage() {
               icon: Star,
             },
           ]}
-          gridVariant="three-columns-all-equal-width"
+          gridVariant="uniform-all-items-equal"
           animationType="slide-up"
           textboxLayout="default"
           useInvertedBackground={true}

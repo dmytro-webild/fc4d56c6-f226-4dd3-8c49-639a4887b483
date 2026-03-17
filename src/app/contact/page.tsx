@@ -101,7 +101,7 @@ export default function ContactPage() {
               handle: "@maria_s",
               testimonial: "Masarap at mura! Best silog sa Caloocan. Laging masarap ang bawat order ko dito sa Jack's Grill!",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/cheerful-bearded-man_1098-22109.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/cheerful-bearded-man_1098-22109.jpg?_wi=2",
               imageAlt: "Maria Santos - Satisfied customer",
             },
             {
@@ -110,7 +110,7 @@ export default function ContactPage() {
               handle: "@juan_dc",
               testimonial: "Sulit na silog sa Caloocan! Ang presyo ay affordable pero ang lasa ay premium quality. Highly recommended!",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-beautiful-hispanic-woman-standing-with-arms-crossed-gesture-street_839833-27487.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-beautiful-hispanic-woman-standing-with-arms-crossed-gesture-street_839833-27487.jpg?_wi=2",
               imageAlt: "Juan dela Cruz - Happy customer",
             },
             {
@@ -119,7 +119,7 @@ export default function ContactPage() {
               handle: "@ana_r",
               testimonial: "Perfect breakfast spot for busy mornings. Fast service, fresh food, and napakasarap! I come here every week.",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-chinese-woman-smiling-confident-standing-street_839833-7633.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-chinese-woman-smiling-confident-standing-street_839833-7633.jpg?_wi=2",
               imageAlt: "Ana Reyes - Loyal customer",
             },
             {
@@ -128,7 +128,7 @@ export default function ContactPage() {
               handle: "@ramon_c",
               testimonial: "Ang best grill meals sa Dagat-Dagatan! Ang garlic rice at tapa ay consistently masarap. 10/10!",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-asian-woman_1098-21999.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-asian-woman_1098-21999.jpg?_wi=2",
               imageAlt: "Ramon Cruz - Regular customer",
             },
           ]}
